@@ -1,0 +1,11 @@
+cd Yolov5-Fruit-Detector-master
+ls
+pip install -r requirements.txt
+pip install PySide6
+pip install torch torchvision torchaudio
+pip install requests
+pip install tqdm
+pip install torch torchvision torchaudio
+pip install pyyaml
+pip install seaborn
+pip install PySide6
